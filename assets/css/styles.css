@@ -517,6 +517,10 @@ iframe {
 .footer .fa-heart {
   color: #fb866a;
 }
+
+.project-description {
+  text-align: left;
+}
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   .header {
